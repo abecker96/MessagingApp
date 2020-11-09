@@ -26,7 +26,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:fontFamily="@font/josefin_sans"
-        android:text=" - Developers for the Projects\n\n      Christofer Henry - Team Leader\n\n      Aiden Backer - Main Programmer\n\n      Prem Panchal - Helper\n\n      Robert Sosa - Helper"
+        android:text=" - Developers for the Projects\n\n      Christofer Henry - Team Leader\n\n      AidAn Becker - Main Programmer\n\n      Prem Panchal - Helper\n\n      Robert Sosa - Helper"
         android:textColor="#000000"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"

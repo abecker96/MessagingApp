@@ -43,6 +43,7 @@
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="10dp"
                 android:background="@drawable/send"
+                android:onClick="sendMessage"
                 android:padding="20dp"
                 android:scaleType="fitCenter" />
         </LinearLayout>
